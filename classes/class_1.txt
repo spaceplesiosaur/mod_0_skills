@@ -1,0 +1,16 @@
+Class = Bus
+
+Attributes
+
+- CurrentSpeed (Float)
+- Color (String)
+- SeatAssignments (Hash/Object)
+- StudentList (Array)
+- MakeYear (Integer)
+
+Methods
+
+- PaintBus (Modifies Color)
+- IncreaseSpeed (Modifies CurrentSpeed)
+- AddStudent (Adds string to StudentList)
+- CalculateAge (Subtracts MakeYear from current year)
