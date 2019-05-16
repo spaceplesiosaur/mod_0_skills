@@ -1,0 +1,44 @@
+How to become a Turing Student
+
+1. Take a Taste of Turing class
+  1.1 Register for class
+  1.2 Spend two days on the weekend trying FE and BE coding
+  1.3 Think about whether you would like to do those things every day
+2. Apply
+  2.2 Prepare to fill out application
+    2.2.3 Read over questions
+    2.2.4 Think about answers to questions
+  2.3 Fill out application
+  2.4. Take logic assessment
+3. Wait to see if you got an interview
+4. Interview
+  4.1 Assess whether you'd be a cultural fit
+  4.2 Do a paired logic assessment
+5. Get accepted
+  5.1 Receive acceptance email
+  5.2 Sign form
+  5.3 Send in deposit
+6. Get your computer set up
+  6.1 Pick up computer from Turing
+  6.2 Install necessary softwares
+7. Do Mod 0
+  7.1 Session 1
+    7.1.1 Participate in class
+    7.1.2 Do homework
+  7.2. Session 2
+    7.2.1 Participate in class
+    7.2.2 Do homework
+  7.3 Session 3
+    7.3.1 Participate in class
+    7.3.2 Do homework
+  7.4 Session 4
+    7.4.1 Participate in class
+    7.4.2 Do homework
+  7.5 Session 5
+    7.5.1 Participate in class
+    7.5.2 Technical assessment
+      7.5.2.1 Study for technical assessment
+      7.5.2.1 Do technical assessment
+  7.6 Session 6
+    7.6.1 Participate in class
+8. Find out whether you are Turing ready
