@@ -1,0 +1,15 @@
+Instance: Allie
+
+BirthYear 1986
+Height 63
+Hair color ["brown"]
+Name ["Allie"]
+Passing? F
+
+
+Methods
+
+CalculateAge 32
+DyeHair ["black"]
+UpdateHeight 64
+GiveA T

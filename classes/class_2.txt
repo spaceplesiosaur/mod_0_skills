@@ -1,0 +1,17 @@
+Class = Student
+
+Attributes
+
+BirthYear (Integer)
+Height (Integer)
+Hair color (string)
+Name (String)
+Passing? (Boolean)
+
+
+Methods
+
+CalculateAge (Subtract BirthYear from current year)
+DyeHair (modifies hair color)
+UpdateHeight (Modifies height)
+GiveA (Modifies Passing?)
