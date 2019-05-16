@@ -1,0 +1,18 @@
+Instance:  My school bus in second grade
+
+Class = Bus
+
+Attributes
+
+- CurrentSpeed 0
+- Color ["purple"]
+- SeatAssignments {"frontseats":"kindergarteners", "backseats":"sixthgraders"}
+- StudentList  ["Allie", "Kristen", "Melissa"]
+- MakeYear 1986
+
+Methods
+
+- PaintBus ["blue"]
+- IncreaseSpeed 15 mph
+- AddStudent ["Allie", "Kristen", "Melissa", "Austin"]
+- CalculateAge 33
